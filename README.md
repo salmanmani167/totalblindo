@@ -1,0 +1,2 @@
+# totalblindo
+totalblindo Shopify Theme
